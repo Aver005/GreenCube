@@ -1,0 +1,1 @@
+if shoot {shoot = false; shotsFired = 0;}
